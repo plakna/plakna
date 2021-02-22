@@ -1,4 +1,4 @@
-### ahoy-hoy? 👋
+### Ahoy-hoy 👋
 
 <!--
 **plakna/plakna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
